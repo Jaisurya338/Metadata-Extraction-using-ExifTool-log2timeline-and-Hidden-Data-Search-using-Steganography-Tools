@@ -89,6 +89,9 @@ binwalk suspicious.jpg
 ```bash
 binwalk /home/kali/Downloads/wallpaper.jpg
 ```
+<img width="1822" height="1071" alt="Screenshot 2026-09-07 223318" src="https://github.com/user-attachments/assets/8f490b2c-263e-4327-b4f3-3aba0360de26" />
+<img width="1828" height="1073" alt="Screenshot 2026-09-07 223339" src="https://github.com/user-attachments/assets/e2dcfaaf-0b42-413c-af3a-bbc2227b3a71" />
+
 
 
 ## RESULT:
